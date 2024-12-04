@@ -20,3 +20,15 @@ Connections:
 Project Purpose: This ESP32-based version provides the advantage of WiFi connectivity, allowing real-time data transmission over the internet for remote monitoring. Ideal for use in the Tecnoacademia de Manizales, it enables the study of environmental conditions and their impact on various processes. The station is designed to be a portable and open-source solution, offering flexibility for future expansions, including cloud integration and data visualization on external platforms.
 
 With improved sensors and energy autonomy through solar power, this version is suitable for both educational purposes and practical applications in monitoring and analyzing environmental factors over time.
+
+Perfect for engineers, makers, and researchers looking to explore environmental monitoring with cost-effective and versatile tools.
+
+Download includes: 
+- Arduino Codes: Fully documented and ready to upload to your ESP32.
+- 3D Models: The enclosure and modular components are available in STEP format, suitable for editing and printing.
+
+Download Links:
+- Tinkercad: https://www.tinkercad.com/things/6pniuVdfldQ-estacion-de-monitoreo-iot-rev4
+- Thingiverse: https://www.thingiverse.com/thing:6854103
+- Grabcad: https://grabcad.com/library/diy-portable-weather-station-1
+
