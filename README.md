@@ -3,6 +3,8 @@ This project is a portable environmental monitoring station designed for air qua
 
 ![Render2](https://github.com/user-attachments/assets/8b6a5cb7-3b91-4732-8c34-d4d53aa1e22a)
 
+https://github.com/user-attachments/assets/fe1a357f-786f-4a88-b8d0-5f952dd97595
+
 ✨ Key Features ✨
 - ✅ Multi-sensor integration for temperature, humidity, air pressure, and gas concentration. 🌡️💧⚡
 - ✅ Compact and lightweight portable design. 🎒📏
