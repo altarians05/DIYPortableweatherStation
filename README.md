@@ -33,31 +33,31 @@ Download Links 🔗:
 - 💾 MicroSD Module: 🛠️ CS -> GPIO05, 🛠️ MOSI -> GPIO23, 🛠️ SCK -> GPIO18, 🛠️ MISO -> GPIO19, ⚡ 5V, 🌍 GND
 - 🔄 Rotary Encoder KY-040: 🛠️ DT -> GPIO25, 🛠️ CLK -> GPIO26, 🛠️ SW -> GPIO33, ⚡ 5V, 🌍 GND
 
-📚 Libraries and Resources: To make your setup easier, here’s a list of libraries and guides for the components used in this project. 💡
+📚 Libraries and Resources:
 - 🛠️ BME680 Sensor
-  - 📂 Library: Download Here
-  - 📖 Guide: How to Use
-  - 🎓 Tutorial: Simple Example
+  - 📂 Library: https://n9.cl/2wgdx 
+  - 📖 Guide: https://n9.cl/31472 
+  - 🎓 Tutorial: https://n9.cl/s88k9
 
 - ⏰ RTC DS3231
-  📂 Library: RTClib by Adafruit
-  📖 Guide: Setup Instructions
-  🎓 Tutorial: Simple Example
+  - 📂 Library: https://github.com/adafruit/RTClib
+  - 📖 Guide: https://n9.cl/o9x3j 
+  - 🎓 Tutorial: [Simple Example](https://n9.cl/v09a0 ) 
 
 - 📟 OLED 0.96'' Display
-  📂 Library: Library Link 1, Library Link 2
-  📖 Guide: Setup Instructions
-  🎓 Tutorial: Beginner Guide 1, Beginner Guide 2
+  - 📂 Library: Library Link 1, Library Link 2
+  - 📖 Guide: Setup Instructions
+  - 🎓 Tutorial: Beginner Guide 1, Beginner Guide 2
 
 - 💾 MicroSD Module
-  📂 Library: Download Here
-  📖 Guide: Setup Instructions
-  🎓 Tutorial: Example Project
+  - 📂 Library: Download Here
+  - 📖 Guide: Setup Instructions
+  - 🎓 Tutorial: Example Project
 
 - 🔄 Rotary Encoder KY-040
-  📂 Library: Not Required 🎉
-  📖 Guides: Guide 1, Guide 2
-  🎓 Tutorials: Beginner Guide 1, Beginner Guide 2
+  - 📂 Library: Not Required 🎉
+  - 📖 Guides: Guide 1, Guide 2
+  - 🎓 Tutorials: Beginner Guide 1, Beginner Guide 2
 
 💡 Support the Project!
 If you find this project useful or inspiring, consider supporting it in each link by:
