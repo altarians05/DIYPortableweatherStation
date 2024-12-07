@@ -66,3 +66,5 @@ If you find this project useful or inspiring, consider supporting it in each lin
 - 💬 Leaving a comment with your thoughts or suggestions.
 
 As an open-source research initiative 🌱, your interaction helps us gain visibility 👀 and continue contributing to the community 🌍. Together, we can inspire more innovations ✨ and improvements!
+
+![05_Circuit_Diagram_ESPWROOM32](https://github.com/user-attachments/assets/aa3ecc56-2776-4869-a9a8-e894e77517f9)
