@@ -28,6 +28,8 @@ Perfect for 🔬 Engineers, Makers 🛠️, and Researchers 📚 looking to expl
 
 ![Render1](https://github.com/user-attachments/assets/a28f2512-0d2d-4490-8a30-01b58cd39081)
 
+------------------------------------------------------------------------------------------------------------
+
 Download Includes 📂:
 - 📜 Arduino Codes: Fully documented and ready to upload to your ESP32. 🚀
 - 📐 3D Models: The enclosure and modular components are available in STEP format, suitable for editing and printing. 
@@ -38,6 +40,8 @@ Download Links 🔗:
 - 📌 [Thingiverse](https://www.thingiverse.com/thing:6854103)
 - 📌 [Grabcad](https://grabcad.com/library/diy-portable-weather-station-1)
 
+------------------------------------------------------------------------------------------------------------
+
 ⚙️ Connections:
 - 🌡️ BME680 Sensor: 🛠️ SCL -> GPIO22, 🛠️ SDA -> GPIO21, ⚡ 5V, 🌍 GND
 - ⏰ RTC DS3231: 🛠️ SCL -> GPIO22, 🛠️ SDA -> GPIO21, ⚡ 5V, 🌍 GND
@@ -46,6 +50,8 @@ Download Links 🔗:
 - 🔄 Rotary Encoder KY-040: 🛠️ DT -> GPIO25, 🛠️ CLK -> GPIO26, 🛠️ SW -> GPIO33, ⚡ 5V, 🌍 GND
 
 ![05_Circuit_Diagram_ESPWROOM32](https://github.com/user-attachments/assets/f012310b-f9d6-4136-87b6-e23a1d1326a4)
+
+------------------------------------------------------------------------------------------------------------
 
 📚 Libraries and Resources:
 - 🛠️ BME680 Sensor
@@ -72,6 +78,8 @@ Download Links 🔗:
   - 📂 Library: Not Required 🎉
   - 📖 Guides: [Guide 1](https://n9.cl/tbt4g), [Guide 2](https://n9.cl/v2f8)
   - 🎓 Tutorials: [Beginner Guide 1](https://n9.cl/rmjnv), [Beginner Guide 2](https://n9.cl/bn3d6)
+
+------------------------------------------------------------------------------------------------------------
 
 💡 Support the Project!
 If you find this project useful or inspiring, consider supporting it in each link by:
