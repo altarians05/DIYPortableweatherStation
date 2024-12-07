@@ -26,6 +26,39 @@ Download Links 🔗:
 - 📌 Thingiverse: https://www.thingiverse.com/thing:6854103
 - 📌 Grabcad: https://grabcad.com/library/diy-portable-weather-station-1
 
+⚙️ Connections:
+- 🌡️ BME680 Sensor: 🛠️ SCL -> GPIO22, 🛠️ SDA -> GPIO21, ⚡ 5V, 🌍 GND
+- ⏰ RTC DS3231: 🛠️ SCL -> GPIO22, 🛠️ SDA -> GPIO21, ⚡ 5V, 🌍 GND
+- 📟 OLED 0.96" Display: 🛠️ SCL -> GPIO22, 🛠️ SDA -> GPIO21, ⚡ 5V, 🌍 GND
+- 💾 MicroSD Module: 🛠️ CS -> GPIO05, 🛠️ MOSI -> GPIO23, 🛠️ SCK -> GPIO18, 🛠️ MISO -> GPIO19, ⚡ 5V, 🌍 GND
+- 🔄 Rotary Encoder KY-040: 🛠️ DT -> GPIO25, 🛠️ CLK -> GPIO26, 🛠️ SW -> GPIO33, ⚡ 5V, 🌍 GND
+
+📚 Libraries and Resources: To make your setup easier, here’s a list of libraries and guides for the components used in this project. 💡
+- 🛠️ BME680 Sensor
+  📂 Library: Download Here
+  📖 Guide: How to Use
+  🎓 Tutorial: Simple Example
+
+-⏰ RTC DS3231
+  📂 Library: RTClib by Adafruit
+  📖 Guide: Setup Instructions
+  🎓 Tutorial: Simple Example
+
+- 📟 OLED 0.96'' Display
+  📂 Library: Library Link 1, Library Link 2
+  📖 Guide: Setup Instructions
+  🎓 Tutorial: Beginner Guide 1, Beginner Guide 2
+
+- 💾 MicroSD Module
+  📂 Library: Download Here
+  📖 Guide: Setup Instructions
+  🎓 Tutorial: Example Project
+
+- 🔄 Rotary Encoder KY-040
+  📂 Library: Not Required 🎉
+  📖 Guides: Guide 1, Guide 2
+  🎓 Tutorials: Beginner Guide 1, Beginner Guide 2
+
 💡 Support the Project!
 If you find this project useful or inspiring, consider supporting it in each link by:
 - ⭐ Following the project on all platforms.
