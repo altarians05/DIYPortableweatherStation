@@ -35,29 +35,29 @@ Download Links 🔗:
 
 📚 Libraries and Resources:
 - 🛠️ BME680 Sensor
-  - 📂 Library: https://n9.cl/2wgdx 
-  - 📖 Guide: https://n9.cl/31472 
-  - 🎓 Tutorial: https://n9.cl/s88k9
+  - 📂 Library: [Download Here](https://n9.cl/2wgdx)
+  - 📖 Guide: [How to Use](https://n9.cl/31472)
+  - 🎓 Tutorial: [Simple Example](https://n9.cl/s88k9)
 
 - ⏰ RTC DS3231
-  - 📂 Library: https://github.com/adafruit/RTClib
-  - 📖 Guide: https://n9.cl/o9x3j 
-  - 🎓 Tutorial: [Simple Example](https://n9.cl/v09a0 ) 
+  - 📂 Library: [RTClib by Adafruit](https://github.com/adafruit/RTClib)
+  - 📖 Guide: [Setup Instructions](https://n9.cl/o9x3j) 
+  - 🎓 Tutorial: [Simple Example](https://n9.cl/v09a0) 
 
 - 📟 OLED 0.96'' Display
-  - 📂 Library: Library Link 1, Library Link 2
-  - 📖 Guide: Setup Instructions
-  - 🎓 Tutorial: Beginner Guide 1, Beginner Guide 2
+  - 📂 Library: [Library Link 1](www.n9.cl/xlc9w), [Library Link 2](www.n9.cl/xv1dp)
+  - 📖 Guide: [Setup Instructions](https://n9.cl/l03ufr) 
+  - 🎓 Tutorial: [Beginner Guide 1](www.n9.cl/jzy5xj), [Beginner Guide 2](www.n9.cl/f29yyf) 
 
 - 💾 MicroSD Module
-  - 📂 Library: Download Here
-  - 📖 Guide: Setup Instructions
-  - 🎓 Tutorial: Example Project
+  - 📂 Library: [Download Here](https://n9.cl/z0hjuf)
+  - 📖 Guide: [Setup Instructions](https://n9.cl/nbez7)
+  - 🎓 Tutorial: [Example Project](https://n9.cl/s88k9)
 
 - 🔄 Rotary Encoder KY-040
   - 📂 Library: Not Required 🎉
-  - 📖 Guides: Guide 1, Guide 2
-  - 🎓 Tutorials: Beginner Guide 1, Beginner Guide 2
+  - 📖 Guides: [Guide 1](https://n9.cl/tbt4g), [Guide 2](https://n9.cl/v2f8)
+  - 🎓 Tutorials: [Beginner Guide 1](https://n9.cl/rmjnv), [Beginner Guide 2](https://n9.cl/bn3d6)
 
 💡 Support the Project!
 If you find this project useful or inspiring, consider supporting it in each link by:
