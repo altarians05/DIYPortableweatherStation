@@ -3,8 +3,7 @@ This project is a portable environmental monitoring station designed for air qua
 
 ![Render2](https://github.com/user-attachments/assets/8b6a5cb7-3b91-4732-8c34-d4d53aa1e22a)
 
-🎥 See the Prototype in Action!
-
+🎥 See the Prototype in Action:
 Want to see the final prototype in action? 🌟 Head over to our YouTube video to get a full walkthrough of the Portable Environmental Monitoring Station, its features, and how it works! 
 
 📹 Watch here: [Prototype Video on YouTube](https://youtu.be/jpqpw_nJwng?si=KsxWxKCoQXddJWzs)
