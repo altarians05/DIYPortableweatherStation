@@ -22,9 +22,9 @@ Download Includes 📂:
 - ⚡ Electronics Wiring Diagram: Comprehensive connection diagrams created in Fritzing, guiding the setup of all electronic components. 🔌🖥️
 
 Download Links 🔗:
-- 📌 Tinkercad: https://www.tinkercad.com/things/6pniuVdfldQ-estacion-de-monitoreo-iot-rev4
-- 📌 Thingiverse: https://www.thingiverse.com/thing:6854103
-- 📌 Grabcad: https://grabcad.com/library/diy-portable-weather-station-1
+- 📌 [Tinkercad](https://www.tinkercad.com/things/6pniuVdfldQ-estacion-de-monitoreo-iot-rev4)
+- 📌 [Thingiverse](https://www.thingiverse.com/thing:6854103)
+- 📌 [Grabcad](https://grabcad.com/library/diy-portable-weather-station-1)
 
 ⚙️ Connections:
 - 🌡️ BME680 Sensor: 🛠️ SCL -> GPIO22, 🛠️ SDA -> GPIO21, ⚡ 5V, 🌍 GND
