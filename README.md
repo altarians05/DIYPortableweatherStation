@@ -35,11 +35,11 @@ Download Links 🔗:
 
 📚 Libraries and Resources: To make your setup easier, here’s a list of libraries and guides for the components used in this project. 💡
 - 🛠️ BME680 Sensor
-  📂 Library: Download Here
-  📖 Guide: How to Use
-  🎓 Tutorial: Simple Example
+  - 📂 Library: Download Here
+  - 📖 Guide: How to Use
+  - 🎓 Tutorial: Simple Example
 
--⏰ RTC DS3231
+- ⏰ RTC DS3231
   📂 Library: RTClib by Adafruit
   📖 Guide: Setup Instructions
   🎓 Tutorial: Simple Example
