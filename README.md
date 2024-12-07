@@ -5,7 +5,11 @@ This project is a portable environmental monitoring station designed for air qua
 
 🎥 See the Prototype in Action!
 
-Want to see the final prototype in action? 🌟 Head over to our YouTube video to get a full walkthrough of the Portable Environmental Monitoring Station, its features, and how it works! 📹 Watch here: [Prototype Video on YouTube](https://youtu.be/jpqpw_nJwng?si=KsxWxKCoQXddJWzs)
+Want to see the final prototype in action? 🌟 Head over to our YouTube video to get a full walkthrough of the Portable Environmental Monitoring Station, its features, and how it works! 
+
+📹 Watch here: [Prototype Video on YouTube](https://youtu.be/jpqpw_nJwng?si=KsxWxKCoQXddJWzs)
+
+------------------------------------------------------------------------------------------------------------
 
 ✨ Key Features ✨
 - ✅ Multi-sensor integration for temperature, humidity, air pressure, and gas concentration. 🌡️💧⚡
