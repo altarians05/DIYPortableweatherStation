@@ -1,8 +1,7 @@
 # PrintingWeatherStationSENA
 This project is a portable environmental monitoring station designed for air quality analysis, weather tracking, and gas measurement. Built as an open-source solution 🛠️🌐, it integrates IoT capabilities, making it ideal for educational projects, environmental research, and DIY enthusiasts. 🤓🔧
 
-![Render2](https://github.com/user-attachments/assets/acfb6a24-2f53-499d-b839-e7a1d4aa204b)
-
+![Render2](https://github.com/user-attachments/assets/8b6a5cb7-3b91-4732-8c34-d4d53aa1e22a)
 
 ✨ Key Features ✨
 - ✅ Multi-sensor integration for temperature, humidity, air pressure, and gas concentration. 🌡️💧⚡
@@ -19,8 +18,7 @@ This project is a portable environmental monitoring station designed for air qua
 
 Perfect for 🔬 Engineers, Makers 🛠️, and Researchers 📚 looking to explore environmental monitoring with cost-effective 🌟 and versatile tools.
 
-![Render1](https://github.com/user-attachments/assets/d5625232-3270-4794-81f3-bd5f5b94aa4e)
-
+![Render1](https://github.com/user-attachments/assets/a28f2512-0d2d-4490-8a30-01b58cd39081)
 
 Download Includes 📂:
 - 📜 Arduino Codes: Fully documented and ready to upload to your ESP32. 🚀
@@ -39,8 +37,7 @@ Download Links 🔗:
 - 💾 MicroSD Module: 🛠️ CS -> GPIO05, 🛠️ MOSI -> GPIO23, 🛠️ SCK -> GPIO18, 🛠️ MISO -> GPIO19, ⚡ 5V, 🌍 GND
 - 🔄 Rotary Encoder KY-040: 🛠️ DT -> GPIO25, 🛠️ CLK -> GPIO26, 🛠️ SW -> GPIO33, ⚡ 5V, 🌍 GND
 
-![05_Circuit_Diagram_ESPWROOM32](https://github.com/user-attachments/assets/aa3ecc56-2776-4869-a9a8-e894e77517f9)
-
+![05_Circuit_Diagram_ESPWROOM32](https://github.com/user-attachments/assets/f012310b-f9d6-4136-87b6-e23a1d1326a4)
 
 📚 Libraries and Resources:
 - 🛠️ BME680 Sensor
